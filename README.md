@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<!--
-**mohammadrezza/mohammadrezza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+ <strong>
+  My skills & intrests
+  </strong>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <img src="https://icongr.am/simple/python.svg?colored=true" alt="python"  />
+  <img src="https://icongr.am/simple/flask.svg?colored=true" alt="flask"  />
+  <img src="https://icongr.am/simple/mysql.svg?colored=true" alt="mysql"  />
+  <img src="https://icongr.am/simple/mongodb.svg?colored=true" alt="mongodb"  />
+  <img src="https://icongr.am/simple/go.svg?colored=true" alt="go"  />
+  <img src="https://icongr.am/simple/git.svg?colored=true" alt="git"  />
+  <img src="https://icongr.am/simple/docker.svg?colored=true" alt="docker"  />
+</p>
