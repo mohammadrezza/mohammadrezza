@@ -14,4 +14,5 @@
   <img src="https://icongr.am/simple/git.svg?colored=true" alt="git"  />
   <img src="https://icongr.am/simple/docker.svg?colored=true" alt="docker"  />
   <img src="https://icongr.am/simple/terraform.svg?colored=true" alt="terraform"  />
+  <img src="https://icongr.am/simple/ansible.svg?colored=true" alt="ansible"  />
 </p>
