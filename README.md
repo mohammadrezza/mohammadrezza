@@ -8,10 +8,10 @@
 
 <p align="center"> 
   <img src="https://icongr.am/simple/python.svg?colored=true" alt="python"  />
-  <img src="https://icongr.am/simple/flask.svg?colored=true" alt="flask"  />
-  <img src="https://icongr.am/simple/mysql.svg?colored=true" alt="mysql"  />
+  <img src="https://icongr.am/simple/postgresql.svg?colored=true" alt="postgresql"  />
   <img src="https://icongr.am/simple/mongodb.svg?colored=true" alt="mongodb"  />
   <img src="https://icongr.am/simple/go.svg?colored=true" alt="go"  />
   <img src="https://icongr.am/simple/git.svg?colored=true" alt="git"  />
   <img src="https://icongr.am/simple/docker.svg?colored=true" alt="docker"  />
+  <img src="https://icongr.am/simple/terraform.svg?colored=true" alt="terraform"  />
 </p>
